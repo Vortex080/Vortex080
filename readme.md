@@ -45,6 +45,6 @@
 
 ###
 
-<p align="left">![](https://komarev.com/ghpvc/?username=vortex080&color=fb4362)</p>
+![](https://komarev.com/ghpvc/?username=vortex080&color=fb4362)
 
 ###
