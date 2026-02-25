@@ -1,67 +1,49 @@
-<h2 align="left">Hi 👋! I'm Antonio Escuchas, a Junior Fullstack Developer from Jaén, Spain</h2>
+# Hi there, I'm Antonio Escuchas! 👋
+
+## 🚀 FullStack Developer | HealthTech Enthusiast | AI & Big Data Specialist
+
+Soy un desarrollador enfocado en construir soluciones robustas y escalables. Actualmente, formo parte del equipo de **Nttdata**, donde desarrollo aplicaciones frontend para el sector **Health**, combinando código limpio con un impacto real en la vida de las personas.
+
+### ⚡ Un poco sobre mí...
+
+- 🔭 **Proyectos actuales:** Desarrollo de aplicaciones frontales de alto rendimiento en el sector salud.
+- 🎓 **Hito reciente:** Finalicé mi **Máster en IA y Big Data**, lo que me permite aportar una visión analítica y predictiva al desarrollo tradicional.
+- 🧠 **Intereses:** Me apasiona la IA aplicada, las arquitecturas modernas y el aprendizaje continuo de nuevas tecnologías.
+- 🤝 **Soft Skills:** Creo firmemente que el código es mejor cuando se acompaña de un buen "don de gentes" y trabajo en equipo.
+
+---
+
+### 🛠️ Stack Tecnológico
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
+| **Data & Backend**| ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) |
+| **DevOps & Infra**| ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![VMs](https://img.shields.io/badge/-VMs-gray?logo=virtualbox&logoColor=white) |
+| **Herramientas** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) |
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+A continuación, un vistazo a mi actividad y métricas de desarrollo:
 
 <p align="left">
-  I'm currently a student of <strong>Web Application Development</strong> at <strong>I.E.S. Las Fuentezuelas</strong>, where I started in 2023 and will graduate in 2025.<br><br>
-  Currently, I'm doing my internship at <strong>NTT DATA</strong>, where I’m actively contributing to web development, backend services, and load testing using tools such as <strong>Java with MicroProfile, Spring Boot, SQL, and JMeter</strong>.<br><br>
-  I am passionate about learning new technologies, exploring software architecture, and understanding how teams organize and collaborate effectively.<br><br>
-  As part of my final project, I’m developing a complete web platform for online sales, including an intranet with warehouse management — simulating the needs of a real business environment.<br><br>
-  My main interest lies in <strong>fullstack development</strong>, and I have hands-on experience with technologies such as <strong>Docker, Kubernetes, and Git</strong>. I’m always open to discovering new fields and challenges, as I enjoy adapting to different environments and learning from them.<br><br>
-  <em>"Don’t follow the path. Blaze your own."</em>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=visual_studio_code&langs_count=6" />
 </p>
 
----
-
-<h3 align="left">🛠️ Technologies I work with</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+> **Nota:** Sustituye `vortex080` por tu nombre de usuario real de GitHub en los enlaces de arriba.
 
 ---
 
-<h3 align="left">📈 GitHub Stats</h3>
+### 📫 Conectemos
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vortex080&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vortex080&layout=compact&langs_count=8&theme=dracula" height="150" />
-</div>
+¡Siempre estoy abierto a charlar sobre tecnología, IA o nuevas oportunidades!
 
+- **LinkedIn:** [Antonio Escuchas Pegalajar](https://www.linkedin.com/in/antonio-escuchas-pegalajar-05b66b308/)
+
+---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vortex080&color=fb4362" alt="profile views" />
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
-
----
-
-<h3 align="left">🎯 Personal Interests</h3>
-
-- 🏋️ Fitness and staying physically active  
-- 🍳 Cooking and discovering new culinary experiences  
-- 🎬 Big fan of horror movies and film storytelling  
