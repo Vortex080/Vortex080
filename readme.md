@@ -29,11 +29,11 @@ Soy un desarrollador enfocado en construir soluciones robustas y escalables. Act
 A continuación, un vistazo a mi actividad y métricas de desarrollo:
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=visual_studio_code&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vortex080&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortex080&layout=compact&theme=visual_studio_code&langs_count=6" />
 </p>
 
-> **Nota:** Sustituye `vortex080` por tu nombre de usuario real de GitHub en los enlaces de arriba.
+
 
 ---
 
